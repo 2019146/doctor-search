@@ -1,0 +1,19 @@
+:root {
+  /* fonts */
+  --font-roboto: Roboto;
+
+  /* font sizes */
+  --font-size-sm: 45px;
+  --font-size-base: 48px;
+  --font-size-lg: 50px;
+  --font-size-xl: 64px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --color-gainsboro: rgba(217, 217, 217, 0);
+  --color-darkslateblue-100: #3a45a9;
+
+  /* border radiuses */
+  --br-md: 20px;
+}
